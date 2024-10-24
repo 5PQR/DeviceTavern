@@ -4,8 +4,8 @@ Simple local API endpoints built in python for various devices. It's an executab
 # Endpoints
 The file current\builtin\ui\demo.html should  contain more info about the endpoints and it has buttons to test the calls.
 
-* GET http://127.0.0.1:7068/status - checks if the tool is running
-* GET http://127.0.0.1:7068/bhaptics?device1=gloveLFrame&device2=GloveL&point=0&intensity=50&duration=100 - triggers haptic feedback for bHaptics devices if bHaptics Player is running
+* GET ```http://127.0.0.1:7068/status``` - checks if the tool is running
+* GET ```http://127.0.0.1:7068/bhaptics?device1=gloveLFrame&device2=GloveL&point=0&intensity=50&duration=100``` - triggers haptic feedback for bHaptics devices if bHaptics Player is running
 
 
 # bHaptics devices haptic feedback
