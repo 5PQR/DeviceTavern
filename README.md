@@ -1,6 +1,8 @@
 # DeviceTavern
 Simple local API endpoints built in python for various devices. It's an executable that installs Miniconda and allows doing local API calls at the port 7068.
 
+More info & contact: https://patreon.com/spqr_aeternum
+
 # Endpoints
 The file current\builtin\ui\demo.html should  contain more info about the endpoints and it has buttons to test the calls.
 
